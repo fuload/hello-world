@@ -1,3 +1,8 @@
+---
+title: 更新内容
+tags: 更新说明,小书匠
+---
+
 # 欢迎使用 Cmd Markdown 编辑阅读器
 
 ------
@@ -18,6 +23,8 @@
 > 请保留此份 Cmd Markdown 的欢迎稿兼使用说明，如需撰写新稿件，点击顶部工具栏右侧的 <i class="icon-file"></i> **新文稿** 或者使用快捷键 `Ctrl+Alt+N`。
 
 ------
+##视频
+%[youku](http://player.youku.com/player.php/sid/XMjcyNzU4Njk5Ng==/v.swf)
 
 ## 什么是 Markdown
 
