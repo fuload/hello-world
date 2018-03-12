@@ -23,6 +23,10 @@ tags: 更新说明,小书匠
 > 请保留此份 Cmd Markdown 的欢迎稿兼使用说明，如需撰写新稿件，点击顶部工具栏右侧的 <i class="icon-file"></i> **新文稿** 或者使用快捷键 `Ctrl+Alt+N`。
 
 ------
+
+##图片
+[![美女图片](https://upload-images.jianshu.io/upload_images/6912209-1c3d07c7077c76c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/273 '百度')](http://www.baidu.com){:target="_blank"}
+
 ##视频
 %[youku][5]
 
