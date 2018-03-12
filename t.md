@@ -25,7 +25,8 @@ tags: 更新说明,小书匠
 ------
 
 ##图片
-[![美女图片](https://upload-images.jianshu.io/upload_images/6912209-1c3d07c7077c76c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/273 '百度')](http://www.baidu.com){:target="_blank"}
+
+[![美女图片]('https://upload-images.jianshu.io/upload_images/6912209-1c3d07c7077c76c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/273' '百度')](http://www.baidu.com){:target="_blank"}
 
 ##视频
 %[youku][5]
