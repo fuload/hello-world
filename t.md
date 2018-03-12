@@ -9,6 +9,8 @@ This is an H1
 This is an H2
 -------------
 
+<p style="text-align: right;">kfslfkdf</p>
+
 # 欢迎使用 Cmd Markdown 编辑阅读器
 
 ------
