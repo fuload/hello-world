@@ -24,7 +24,7 @@ tags: 更新说明,小书匠
 
 ------
 ##视频
-%[youku](http://player.youku.com/player.php/sid/XMjcyNzU4Njk5Ng==/v.swf)
+%[youku][5]
 
 ## 什么是 Markdown
 
@@ -197,3 +197,4 @@ Bob-->Alice: I am good thanks!
 [2]: https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-高阶语法手册
 [3]: http://weibo.com/ghosert
 [4]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+[5]: http://player.youku.com/player.php/sid/XMjcyNzU4Njk5Ng==/v.swf
